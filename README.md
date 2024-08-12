@@ -1,6 +1,6 @@
-UnB - Universidade de Brasilia/n
-FGA - Faculdade do Gama/n
-OO - Orientação por Objetos/n
-Prof. André Luiz Peron Martins Lanna/n
+UnB - Universidade de Brasilia
+FGA - Faculdade do Gama
+OO - Orientação por Objetos
+Prof. André Luiz Peron Martins Lanna
 
 Trabalho Prático de Orientação por Objetos
